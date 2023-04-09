@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MiBox:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MiBox_jar</output-path>
+    <root id="archive" name="MiBox.jar">
+      <element id="module-output" name="MiBox" />
+    </root>
+  </artifact>
+</component>
